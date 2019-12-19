@@ -1,2 +1,2 @@
 # qrcode
-Project created using VueJS.
+Project created using VueJS as a QrCode generator.
